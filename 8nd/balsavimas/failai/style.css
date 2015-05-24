@@ -1,0 +1,78 @@
+/* feedback */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.bg {
+	/*background-attachment: fixed;*/
+	background-image: url(../images/decorwise_feedback_14.gif);
+	background-repeat: no-repeat;
+	background-position: 93px bottom;
+}
+.bg2 {
+	/*background-attachment: fixed;*/
+	background-image: url(../images/decorwise_feedback_04.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+}
+.copyright {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #2EA853;
+}
+A.copyright:link {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #2EA853;
+	text-decoration: none;
+}
+A.copyright:active {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #2EA853;
+	text-decoration: none;
+}
+A.copyright:visited {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #2EA853;
+	text-decoration: none;
+}
+A.copyright:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.textarea {
+	font-family: Tahoma;
+	font-size: 12px;
+	border: 1px solid #000000;
+}
+.sendbutton {
+	font-family: Tahoma;
+	font-size: 12px;
+	border: 0px none #FFFFFF;
+	font-weight: bold;
+	color: #2EA853;
+	background-color: #FFFFFF;
+}
